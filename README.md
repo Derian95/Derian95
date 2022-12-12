@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Derian Herrera</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
+![Logo](https://github.com/Derian95/Imgs/blob/master/imgs/DerianDog.png?raw=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
