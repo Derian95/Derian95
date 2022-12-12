@@ -37,9 +37,7 @@ My name is Derian Herrera, I live in Peru and I'm a FrontEnd developer ❤️.
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
     </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mysql.png" height="60"wifth="60">
-    </td>
+   
     <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
