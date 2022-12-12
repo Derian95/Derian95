@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Derian Herrera</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
- <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://github.com/Derian95/Imgs/blob/master/imgs/DerianDog.png?raw=true)" alt="javascript" width="40" height="40"/> 
+ <img src="[original.svg]https://github.com/Derian95/Imgs/blob/master/imgs/DerianDog.png?raw=true](https://github.com/Derian95/Imgs/blob/master/imgs/DerianDog.png?raw=true)" alt="DE" width="40" height="40"/> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/derian herrera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="derian herrera" height="30" width="40" /></a>
